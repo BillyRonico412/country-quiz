@@ -42,14 +42,14 @@
 This application built with XState to manage the state of the application.
 ![screenshot](https://country-quiz-rosy.vercel.app/state.png)
 
-It is a quiz about countries and their capitals.
-You can choose between 2 modes: "Country to Capital" and "Capital to Country".
-You can also choose the number of questions you want to answer.
-The application will then display the questions and the answers.
-You can then choose the correct answer and the application will tell you if you are right or wrong.
-If you are wrong, you can see the correct answer and try again.
-If you are right, you can move on to the next question.
-At the end of the quiz, you can see your score and try again.
+- It is a quiz about countries and their capitals.
+- You can choose between 2 modes: "Country to Capital" and "Capital to Country".
+- You can also choose the number of questions you want to answer.
+- The application will then display the questions and the answers.
+- You can then choose the correct answer and the application will tell you if you are right or wrong.
+- If you are wrong, you can see the correct answer and try again.
+- If you are right, you can move on to the next question.
+- At the end of the quiz, you can see your score and try again.
 
 Xstate is very powerful and I really enjoyed using it for this project.
 
