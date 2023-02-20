@@ -60,6 +60,7 @@ Xstate is very powerful and I really enjoyed using it for this project.
 - [React](https://reactjs.org/)
 - [Tailwind](https://tailwindcss.com/)
 - [XState](https://xstate.js.org/)
+- [Zod](https://zod.dev/)
 
 ## Features
 
