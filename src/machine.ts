@@ -86,6 +86,9 @@ const machine =
 
         game: {
           initial: 'playing',
+          entry: assign({
+            points: 0
+          }),
           states: {
             playing: {
               entry: 'setQuestion',
