@@ -93,5 +93,5 @@ $ npm start
 
 ## Contact
 
-- Website [your-website.com](https://web.ronico-billy.fr)
-- GitHub [@your-username](https://github.com/BillyRonico412)
+- Website [web.ronico-billy.fr](https://web.ronico-billy.fr)
+- GitHub [@BillyRonico412](https://github.com/BillyRonico412)
