@@ -43,8 +43,9 @@ This application built with XState to manage the state of the application.
 ![screenshot](https://country-quiz-rosy.vercel.app/state.png)
 
 - It is a quiz about countries and their capitals.
-- You can choose between 2 modes: "Country to Capital" and "Which country does this flag belong to".
-- The application will then display the questions and the answers.
+- You have 2 modes: "Capital to Country" and "Which country does this flag belong to".
+- Every round, the application choises a random country, a random mode and displays the question.
+- The application will then display 4 answers.
 - You can then choose the correct answer and the application will tell you if you are right or wrong.
 - If you are wrong, you can see the correct answer and try again.
 - If you are right, you can move on to the next question.

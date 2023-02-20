@@ -41,7 +41,7 @@ const App = (): JSX.Element => {
                       if (indexResponded === i) {
                         return '!bg-[#60BF88] !text-white !hover:bg-[#60BF88] !hover:text-white !border-[#60BF88]'
                       } else {
-                        return 'hover:bg-white hover:text-[#6066D0] hover:text-opacity-80 hover:border-[#6066D0]'
+                        return '!hover:bg-white !hover:text-[#6066D0] !hover:text-opacity-80 !hover:border-[#6066D0]'
                       }
                     } else if (state.matches({ game: 'lose' })) {
                       if (i === indexResponded) {
@@ -49,7 +49,7 @@ const App = (): JSX.Element => {
                       } else if (i === indexAnswer) {
                         return '!bg-[#60BF88] !text-white !hover:bg-[#60BF88] !hover:text-white !border-[#60BF88]'
                       } else {
-                        return 'hover:bg-white hover:text-[#6066D0] hover:text-opacity-80 hover:border-[#6066D0]'
+                        return '!hover:bg-white !hover:text-[#6066D0] !hover:text-opacity-80 hover:border-[#6066D0]'
                       }
                     }
                     return ''
