@@ -67,12 +67,12 @@ Xstate is very powerful and I really enjoyed using it for this project.
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/Bu3G2irnaXmfwQ8sZkw8) was to build an application to complete the given user stories.
 
-[x] I can see at least 2 types of questions: a city is the capital of.. or a flag belong to country..
-[x] I can see select an answer
-[x] I can see if my answer is correct or incorrect
-[x] When I answer correctly, I can move on to the next question
-[x] When I answer incorrectly, I can see my results and try again
-[x] I can try again
+- [x] I can see at least 2 types of questions: a city is the capital of.. or a flag belong to country..
+- [x] I can see select an answer
+- [x] I can see if my answer is correct or incorrect
+- [x] When I answer correctly, I can move on to the next question
+- [x] When I answer incorrectly, I can see my results and try again
+- [x] I can try again
 
 ## How To Use
 
